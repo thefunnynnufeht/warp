@@ -1,6 +1,6 @@
 # Mirror
 
-https://mirror.turbowarp.xyz/
+thefunnynnufeht.github.io/warp/
 
 These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
 
